@@ -17,6 +17,8 @@ It provides wp editor to edit your email template.
 
 You can also upload images to your mail content.
 
+You can change sender's name and email.
+
 This plugin was created by Abhishek Kumar http://github.com/abhishekfdd
 
 == Installation ==
@@ -31,6 +33,9 @@ This plugin was created by Abhishek Kumar http://github.com/abhishekfdd
 
 
 == Changelog ==
+
+= 1.1.0 =
+* Option for changing sender name and email.
 
 = 1.0.0 =
 * Initial release
